@@ -1,6 +1,6 @@
 # bugmenot-cli
 
-*bugmenot-cli* is a command line tools to request logins that have been shared on [bugmenot.com](http://bugmenot.com)
+*bugmenot-cli* is a command line tool to request logins that have been shared on [bugmenot.com](http://bugmenot.com)
 
 ## Install
 ```

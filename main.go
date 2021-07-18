@@ -154,7 +154,7 @@ func main() {
 	flag.IntVar(&filter, "filter", 0, "Filter the minimum rate success (greater than or equal to the provided value). Default is 0.")
 
 	flag.Usage = func() {
-		h := "A command line tools to request logins shared on bugmenot.com\n\n"
+		h := "A command line tool to request logins shared on bugmenot.com\n\n"
 
 		h += "Usage:\n"
 		h += "bugmenot-cli -domain <your domain>\n\n"
